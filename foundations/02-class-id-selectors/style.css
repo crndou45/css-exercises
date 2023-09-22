@@ -1,0 +1,26 @@
+p{
+    background-color: rgb(255, 197, 207);
+    font-size: 24px;
+}
+.outside{
+    font-family:Verdana ;
+}
+#outside2{
+    font-family:"DejaVu Sans";
+}
+
+.outside3{
+    font-family: sans-serif;
+    
+}
+#second{
+    color: rgb(35, 35, 255);
+     font-size: 36px;   
+} 
+
+
+.fourth{
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
